@@ -12,6 +12,7 @@ export ICON=/usr/share/icons/hicolor/scalable/apps/re.fossplant.songrec.svg
 export DESKTOP=/usr/share/applications/re.fossplant.songrec.desktop
 export DEPLOY_GTK=1
 export GTK_DIR=gtk-4.0
+export DEPLOY_PIPEWIRE=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/songrec
